@@ -21,6 +21,6 @@ num += 1
 
 
 while i <= 0:
-i = float(input("Please enter a valid interest rate "))
+i = float(input("Please enter a valid interest rate: "))
 else:
 start(values, i)
